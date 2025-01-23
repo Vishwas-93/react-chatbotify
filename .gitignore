@@ -8,10 +8,6 @@
 # testing
 /test/chromedriver.exe
 
-# production
-/build
-/dist
-*.tgz
 
 # misc
 .DS_Store
